@@ -1,0 +1,9 @@
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/MongodbdemoApplication.java
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/FormBody.java
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/repository/EmailRepository.java
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/Emailreply/MyConstants.java
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/Emailreply/EmailReply.java
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/resource/EmailsResource.java
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/document/Feedbackform.java
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/config/MongoDBConfig.java
+/home/sam/Downloads/feedbackdemo/src/main/java/com/mongodb/mongodbdemo/Emailreply/MailConfig.java
